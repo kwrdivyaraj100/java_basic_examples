@@ -1,0 +1,17 @@
+class Area
+{
+  public static void main(String args[])
+
+  {
+   
+   int base = 23;
+   int height = 33;
+   double areOfTriangle = 0.5 * base * height;
+
+   System.out.println("Area of a triangle is " + areaOfTriangle
+   + " My name is Divya."
+   + " I have got my output");
+
+   }
+}
+    
